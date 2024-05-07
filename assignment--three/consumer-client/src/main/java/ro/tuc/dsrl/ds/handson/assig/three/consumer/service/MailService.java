@@ -72,6 +72,4 @@ public class MailService {
             e.printStackTrace();
         }
     }
-
-
 }
